@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['rerunalgorithm_0',['RerunAlgorithm',['../classcom_1_1api_1_1_scheduler_controller.html#abd6cea91e7e9601eba1e059ba604bae6',1,'com::api::SchedulerController']]],
+  ['room_1',['room',['../classcom_1_1api_1_1_entities_1_1_room.html',1,'com.api.Entities.Room'],['../classcom_1_1api_1_1_models_1_1_course_update_model.html#ab15f4fb32c9ef9001f552a988b691011',1,'com.api.Models.CourseUpdateModel.room']]],
+  ['room_2ejava_2',['Room.java',['../_room_8java.html',1,'']]],
+  ['roomcomputers_3',['roomcomputers',['../classcom_1_1api_1_1_entities_1_1_room.html#acf4cd288321587d7d6ab6e9d190538a7',1,'com.api.Entities.Room.roomComputers'],['../classcom_1_1api_1_1_models_1_1_room_model.html#a62c6324d3e40ec92aba8ad7098059804',1,'com.api.Models.RoomModel.roomComputers']]],
+  ['roomdisplays_4',['roomdisplays',['../classcom_1_1api_1_1_entities_1_1_room.html#a5d4f66cc6d006dd0fba74b57e1eeca73',1,'com.api.Entities.Room.roomDisplays'],['../classcom_1_1api_1_1_models_1_1_room_model.html#a98a540ed31ebe0f98eb8716a6dade7b5',1,'com.api.Models.RoomModel.roomDisplays']]],
+  ['roomid_5',['roomid',['../classcom_1_1api_1_1_entities_1_1_room.html#a60b53e0dd02bf5c2c90688d04289b1f6',1,'com.api.Entities.Room.roomId'],['../classcom_1_1api_1_1_entities_1_1_scheduled_course_room.html#aa46b5bdd73ee9a849b9f3a0e7f7fcd52',1,'com.api.Entities.ScheduledCourseRoom.roomId'],['../classcom_1_1api_1_1_models_1_1_room_model.html#aa02be8c7c59f515fc7a52d130df653f0',1,'com.api.Models.RoomModel.roomId'],['../classcom_1_1api_1_1_models_1_1_scheduled_course_update_modal.html#a11242293a472e713b61221e58a1f4af8',1,'com.api.Models.ScheduledCourseUpdateModal.roomId']]],
+  ['roominformation_6',['roominformation',['../classcom_1_1api_1_1_entities_1_1_room.html#afc7e6588140071a798a20a879a1ac1e4',1,'com.api.Entities.Room.roomInformation'],['../classcom_1_1api_1_1_models_1_1_room_model.html#a27368ba39dc0f6c90779250a0fed537f',1,'com.api.Models.RoomModel.roomInformation']]],
+  ['roommodel_7',['roommodel',['../classcom_1_1api_1_1_models_1_1_room_model.html',1,'com.api.Models.RoomModel'],['../classcom_1_1api_1_1_models_1_1_room_model.html#a9d717517abd7235baf3e382370d07d28',1,'com.api.Models.RoomModel.RoomModel()']]],
+  ['roommodel_2ejava_8',['RoomModel.java',['../_room_model_8java.html',1,'']]],
+  ['roomname_9',['roomname',['../classcom_1_1api_1_1_entities_1_1_room.html#a8cf988cff3bc14c992dc7bdea348f19c',1,'com.api.Entities.Room.roomName'],['../classcom_1_1api_1_1_models_1_1_room_model.html#ada0616cfa8ddccc71eb2f8627bc1e824',1,'com.api.Models.RoomModel.roomName']]],
+  ['roomrepository_10',['RoomRepository',['../interfacecom_1_1api_1_1_repositories_1_1_room_repository.html',1,'com::api::Repositories']]],
+  ['roomrepository_2ejava_11',['RoomRepository.java',['../_room_repository_8java.html',1,'']]],
+  ['roomsize_12',['roomsize',['../classcom_1_1api_1_1_entities_1_1_room.html#a5bc34fa37aa8f416aee7bf8327fc113f',1,'com.api.Entities.Room.roomSize'],['../classcom_1_1api_1_1_models_1_1_room_model.html#a922746cb56032f021a645b338cc0b18a',1,'com.api.Models.RoomModel.roomSize']]],
+  ['roomtype_13',['roomtype',['../classcom_1_1api_1_1_entities_1_1_room_type.html',1,'com.api.Entities.RoomType'],['../classcom_1_1api_1_1_models_1_1_room_model.html#a0102de7f6e17fc6095ac4f8787d84825',1,'com.api.Models.RoomModel.roomType']]],
+  ['roomtype_2ejava_14',['RoomType.java',['../_room_type_8java.html',1,'']]],
+  ['roomtypeid_15',['roomtypeid',['../classcom_1_1api_1_1_entities_1_1_room.html#aec636cd17199231712e46db163b1a571',1,'com.api.Entities.Room.roomTypeId'],['../classcom_1_1api_1_1_entities_1_1_room_type.html#aef583ac8f929d0bc185a636997a7576a',1,'com.api.Entities.RoomType.roomTypeId']]],
+  ['roomtypename_16',['roomTypeName',['../classcom_1_1api_1_1_entities_1_1_room_type.html#a161f913bb10c3c8e9a4284c1c541bfa7',1,'com::api::Entities::RoomType']]],
+  ['roomtyperepository_17',['RoomTypeRepository',['../interfacecom_1_1api_1_1_repositories_1_1_room_type_repository.html',1,'com::api::Repositories']]],
+  ['roomtyperepository_2ejava_18',['RoomTypeRepository.java',['../_room_type_repository_8java.html',1,'']]]
+];
